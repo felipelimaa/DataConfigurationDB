@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/eventoappcloudapl02
-    username: root
-    password: P@ssw0rd
-    driverClassName: com.mysql.jdbc.Driver
-  jpa:
-    database-platform: org.hibernate.dialect.H2Dialect
