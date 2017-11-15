@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: mysql:jdbc://localhost:3306/eventoappcloudapl01
+    username: root
+    password: P@ssword
+    driverClassName: org.h2.Driver
+  jpa:
+    database-plataform: org.hibernate.dialect.H2Dialect
