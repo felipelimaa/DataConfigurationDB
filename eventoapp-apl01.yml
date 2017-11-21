@@ -7,7 +7,7 @@ spring:
     
 eureka:
   instance:
-    instance-id: {spring.application.name}
+    instance-id: ${spring.application.name}:${server.port}
   
 eureka:
   client:
