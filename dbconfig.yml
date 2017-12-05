@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: mysql:jdbc://localhost:3306/eventoapp
+    url: mysql:jdbc://localhost:3306/eventoappIran
     username: root
     password: P@ssword
     driverClassName: org.h2.Driver
